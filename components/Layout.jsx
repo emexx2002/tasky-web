@@ -87,7 +87,7 @@ const Layout = () => {
         </div>
       </div>
       <div className="w-[95%] bg-[#f4faff] mx-auto px-8 md:px-16 py-20 md:mt-24 mt-12 flex items-center">
-        <div className="w-2/5 h-auto px-6 md:px-10">
+        <div className="md:w-2/5 w-full h-auto px-6 md:px-10">
           <h3 className="text-gray-800 text-[45px] font-bold leading-[56px]">
             Manage Project Properly.
           </h3>
@@ -96,7 +96,7 @@ const Layout = () => {
             manage tasks for your team
           </p>
         </div>
-        <div className="w-3/5 h-auto px-6 md:px-10"></div>
+        <div className="md:w-3/5 w-full h-auto px-6 md:px-10"></div>
       </div>
       <div className="w-full mx-auto my-16 px-3 md:px-8">
         <section className="bg-white">
